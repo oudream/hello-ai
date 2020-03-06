@@ -1,0 +1,3 @@
+[submodule "referto/matplotlib-cheatsheet"]
+	path = referto/matplotlib-cheatsheet
+	url = https://github.com/rougier/matplotlib-cheatsheet.git
