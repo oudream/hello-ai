@@ -1,3 +1,21 @@
 [submodule "referto/matplotlib-cheatsheet"]
 	path = referto/matplotlib-cheatsheet
 	url = https://github.com/rougier/matplotlib-cheatsheet.git
+[submodule "referto/python_for_data_analysis_2nd_chinese_version"]
+	path = referto/python_for_data_analysis_2nd_chinese_version
+	url = https://github.com/iamseancheney/python_for_data_analysis_2nd_chinese_version.git
+[submodule "referto/Data-Analysis-and-Machine-Learning-Projects"]
+	path = referto/Data-Analysis-and-Machine-Learning-Projects
+	url = https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects.git
+[submodule "referto/Deep-Learning-with-PyTorch-Tutorials"]
+	path = referto/Deep-Learning-with-PyTorch-Tutorials
+	url = https://github.com/dragen1860/Deep-Learning-with-PyTorch-Tutorials.git
+[submodule "referto/pytorch-book"]
+	path = referto/pytorch-book
+	url = https://github.com/chenyuntc/pytorch-book.git
+[submodule "referto/numpy-cn"]
+	path = referto/numpy-cn
+	url = https://github.com/teadocs/numpy-cn.git
+[submodule "referto/pytorch-tutorial"]
+	path = referto/pytorch-tutorial
+	url = https://github.com/yunjey/pytorch-tutorial.git
