@@ -16,6 +16,7 @@ def svm_baseline():
     training_data, validation_data, test_data = mnist_loader.load_data()
     # train
     clf = svm.SVC()
+    # training_data[0] is 50000 images, training_data[1] is 50000 labels
     clf.fit(training_data[0], training_data[1])
     # test
     predictions = [int(a) for a in clf.predict(test_data[0])]
