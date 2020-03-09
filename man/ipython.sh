@@ -7,6 +7,11 @@ jupyter notebook --certfile=mycert.pem # use SSL/TLS certificate
 jupyter notebook password              # enter a password to protect the server
 
 
+%reload_ext autoreload
+%autoreload 2
+%matplotlib inline
+
+
 jupyter-notebook cmd -h
 
 
