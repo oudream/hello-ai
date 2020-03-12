@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-jupyter notebook --no-browser --port 2290 --ip=0.0.0.0 --notebook-dir=/opt&
+jupyter notebook --no-browser --port 2290 --ip=0.0.0.0 --notebook-dir=/opt
 
 jupyter notebook                       # start the notebook
 jupyter notebook --certfile=mycert.pem # use SSL/TLS certificate

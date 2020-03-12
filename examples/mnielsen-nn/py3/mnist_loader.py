@@ -62,6 +62,12 @@ def load_data_wrapper():
     turn out to be the most convenient for use in our neural network
     code."""
     tr_d, va_d, te_d = load_data()
+
+    # tr_d = (tr_d[0][:500], tr_d[1][:100])
+    # va_d = (va_d[0][:100], va_d[1][:100])
+    # te_d = (te_d[0][:100], te_d[1][:100])
+
+
     training_inputs = [np.reshape(x, (784, 1)) for x in tr_d[0]]
     training_results = [vectorized_result(y) for y in tr_d[1]]
     print("load_data_wrapper: training_data = zip(training_inputs, training_results)")
