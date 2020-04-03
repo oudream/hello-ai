@@ -25,3 +25,6 @@
 [submodule "referto/Dive-into-DL-PyTorch"]
 	path = referto/Dive-into-DL-PyTorch
 	url = https://github.com/ShusenTang/Dive-into-DL-PyTorch.git
+[submodule "referto/pytorch-examples"]
+	path = referto/pytorch-examples
+	url = https://github.com/pytorch/examples.git
