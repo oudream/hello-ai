@@ -19,3 +19,9 @@
 [submodule "referto/pytorch-tutorial"]
 	path = referto/pytorch-tutorial
 	url = https://github.com/yunjey/pytorch-tutorial.git
+[submodule "referto/deeplearning-simplified"]
+	path = referto/deeplearning-simplified
+	url = https://github.com/exacity/simplified-deeplearning.git
+[submodule "referto/Dive-into-DL-PyTorch"]
+	path = referto/Dive-into-DL-PyTorch
+	url = https://github.com/ShusenTang/Dive-into-DL-PyTorch.git
