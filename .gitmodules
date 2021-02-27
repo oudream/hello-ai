@@ -10,9 +10,6 @@
 [submodule "referto/Deep-Learning-with-PyTorch-Tutorials"]
 	path = referto/Deep-Learning-with-PyTorch-Tutorials
 	url = https://github.com/dragen1860/Deep-Learning-with-PyTorch-Tutorials.git
-[submodule "referto/pytorch-book"]
-	path = referto/pytorch-book
-	url = https://github.com/chenyuntc/pytorch-book.git
 [submodule "referto/numpy-cn"]
 	path = referto/numpy-cn
 	url = https://github.com/teadocs/numpy-cn.git
@@ -28,3 +25,6 @@
 [submodule "referto/pytorch-examples"]
 	path = referto/pytorch-examples
 	url = https://github.com/pytorch/examples.git
+[submodule "referto/pytorch-book"]
+	path = referto/pytorch-book
+	url = https://github.com/oudream/pytorch-book.git
